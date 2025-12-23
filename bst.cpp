@@ -2,7 +2,7 @@
  * main.cpp
  *
  *  Created on: 8 Nov 2015
- *      Author: Siddhesh Kulthe
+ *      Author: Sido
  */
 
 #include <iostream>
